@@ -1,2 +1,2 @@
-public class Conference {
+public class Conference extends Room {
 }
